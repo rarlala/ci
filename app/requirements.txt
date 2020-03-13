@@ -1,0 +1,3 @@
+
+[RuntimeError]
+Poetry could not find a pyproject.toml file in /home/jungsuji/projects/wps12th/ci/app or its parents
